@@ -7,7 +7,7 @@ header-img: "img/wallhaven-j5op6p.png"
 
 若不是天才，便需要日积月累。
 
-github：https://Climber2017.github.io
+博客地址：https://Climber2017.github.io
 
 
 
